@@ -1,0 +1,20 @@
+/* [next]/internal/font/google/oswald_dee7d14.module.css [app-client] (css) */
+@font-face {
+  font-family: Oswald Fallback;
+  src: local(Arial);
+  ascent-override: 146.51%;
+  descent-override: 35.49%;
+  line-gap-override: 0.0%;
+  size-adjust: 81.43%;
+}
+
+.oswald_dee7d14-module__aYrvCq__className {
+  font-family: Oswald, Oswald Fallback;
+  font-style: normal;
+}
+
+.oswald_dee7d14-module__aYrvCq__variable {
+  --font-oswald: "Oswald", "Oswald Fallback";
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_oswald_dee7d14_module_css_bad6b30c._.single.css.map*/

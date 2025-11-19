@@ -1,0 +1,1848 @@
+[00:02:06.069] Server  LOG      ✓ Ready in 98.4s
+[00:02:09.118] Server  LOG      ○ Compiling / ...
+[00:02:33.290] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:02:33.292] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:02:33.293] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:02:33.294] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:02:36.370] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:02:36.372] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:02:36.372] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:02:36.373] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:02:36.557] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:37.808] Browser LOG     [Vercel Web Analytics] Failed to load script from https://va.vercel-scripts.com/v1/script.debug.js. Please check if any ad blockers are enabled and try again.
+[00:05:34.666] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:05:34.667] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:05:34.668] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:05:34.670] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:05:35.578] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:05:35.579] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:05:35.581] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:05:35.585] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:05:35.612] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:36.020] Browser LOG     [Vercel Web Analytics] Failed to load script from https://va.vercel-scripts.com/v1/script.debug.js. Please check if any ad blockers are enabled and try again.
+[00:05:36.614] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:05:36.616] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:05:36.645] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:05:36.648] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:05:37.084] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:05:37.085] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:05:37.093] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:05:37.097] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:05:39.146] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:05:39.147] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:05:39.148] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:05:39.156] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:05:39.893] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:05:39.896] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:05:39.905] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:05:39.914] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:05:39.935] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:05:39.942] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:05:39.944] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:05:39.951] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:05:39.957] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:40.351] Browser LOG     [Vercel Web Analytics] Failed to load script from https://va.vercel-scripts.com/v1/script.debug.js. Please check if any ad blockers are enabled and try again.
+[00:06:34.087] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:06:34.089] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:06:34.090] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:06:34.091] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:06:34.933] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:06:34.935] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:06:34.936] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:06:34.940] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:06:34.948] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:06:34.964] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:06:34.971] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:06:35.004] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:06:35.006] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:35.998] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:06:35.998] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:06:35.998] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763514503249}
+[00:06:37.329] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:06:37.330] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:06:37.331] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:06:37.332] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:06:38.080] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:06:38.082] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:06:38.088] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:06:38.096] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:06:38.105] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:06:38.108] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:06:38.115] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:06:38.154] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:06:38.155] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:38.491] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:06:38.491] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:06:38.492] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763514505742}
+[00:10:00.962] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:10:00.963] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:10:00.964] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:10:00.965] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:10:01.771] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:10:01.772] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:10:01.774] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:10:01.775] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:10:01.785] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:10:01.795] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:10:01.797] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:10:01.818] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:10:01.820] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:02.200] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:10:02.200] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:10:02.200] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763514709444}
+[00:26:20.963] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:26:20.965] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:26:20.966] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:26:20.968] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:26:23.509] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:26:23.510] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:26:23.511] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:26:23.512] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:26:23.544] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:26:23.545] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:26:23.546] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:26:23.549] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:26:23.652] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:23.934] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:26:23.934] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:26:23.934] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763515691179}
+[00:29:50.965] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:29:50.966] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:29:50.967] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:29:50.969] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:29:52.207] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:29:52.211] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:29:52.212] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:29:52.213] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:29:53.115] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:29:53.118] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:29:53.119] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:29:53.120] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:29:55.836] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:29:55.838] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:29:55.840] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:29:55.842] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:29:57.348] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:29:57.350] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:29:57.356] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:29:57.364] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:29:57.369] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:29:57.370] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:29:57.371] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:29:57.374] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:29:57.385] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:29:57.725] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:29:57.725] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:29:57.725] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763515904969}
+[00:30:32.664] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:30:32.665] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:30:32.666] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:30:32.667] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:30:33.279] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:30:33.281] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:30:33.282] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:30:33.286] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:31:48.449] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:31:48.450] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:31:48.452] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:31:48.455] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:31:49.485] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:31:49.494] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:31:49.496] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:31:49.497] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:31:49.507] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:31:49.517] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:31:49.518] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:31:49.526] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:31:49.531] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:49.921] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:31:49.921] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:31:49.921] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763516017168}
+[00:40:28.821] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:40:28.822] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:40:28.823] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:40:28.824] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:40:31.654] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:40:31.655] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:40:31.656] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:40:31.657] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:40:31.658] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:40:31.659] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:40:31.661] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:40:31.662] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:40:31.778] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:32.807] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:40:32.807] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:40:32.807] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763516539483}
+[00:43:41.914] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:43:41.915] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:43:41.916] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:43:41.917] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:43:46.402] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:43:46.404] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:43:46.405] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:43:46.405] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:43:46.406] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:43:46.407] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:43:46.407] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:43:46.408] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:43:46.509] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:47.173] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:43:47.173] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:43:47.173] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763516734418}
+[00:45:38.497] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:45:38.501] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:45:38.506] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:45:38.508] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:45:39.376] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:45:39.377] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:45:39.381] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:45:39.392] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:45:39.395] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:45:39.397] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:45:39.400] Server  WARN     ⚠ [next]/internal/font/google/inter_c15e96cb.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_c15e96cb.module.css
+    [next]/internal/font/google/inter_c15e96cb.js
+    ./app/layout.tsx
+
+
+[00:45:39.401] Server  WARN     ⚠ [next]/internal/font/google/oswald_dee7d14.module.css
+next/font: warning:
+Failed to download `Oswald` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/oswald_dee7d14.module.css
+    [next]/internal/font/google/oswald_dee7d14.js
+    ./app/layout.tsx
+
+
+[00:45:39.423] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:45:39.762] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:45:39.762] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:45:39.762] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763516847014}

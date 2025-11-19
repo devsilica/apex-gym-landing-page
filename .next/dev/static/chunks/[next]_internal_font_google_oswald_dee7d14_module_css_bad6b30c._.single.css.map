@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[next]/internal/font/google/oswald_dee7d14.module.css"],"sourcesContent":["@font-face {\n    font-family: 'Oswald Fallback';\n    src: local(\"Arial\");\n    ascent-override: 146.51%;\ndescent-override: 35.49%;\nline-gap-override: 0.00%;\nsize-adjust: 81.43%;\n\n}\n.className {\n    font-family: 'Oswald', 'Oswald Fallback';\n    font-style: normal;\n\n}\n.variable {\n    --font-oswald: 'Oswald', 'Oswald Fallback';\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;;AASA;;;;;AAKA","ignoreList":[0]}}]
+}
